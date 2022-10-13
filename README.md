@@ -126,7 +126,7 @@ OR
 
 
   ### ⚠️ Deploy With New Session? <br>
-Click [FORK](https://github.com/Alien-Alfa/WhatsAppBot-MD/fork) <br>
+Click [FORK](https://github.com/Malik009988/WhatsAppBot-MD/fork) <br>
   
 Now copy this url and change GITHUBID with your github username and click GO <br>.
 
